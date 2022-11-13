@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Programming Masterclass for Software Developers Section 21.iml" filepath="$PROJECT_DIR$/.idea/Java Programming Masterclass for Software Developers Section 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music/academy.learnprogramming.common/academy.learnprogramming.common.iml" filepath="$PROJECT_DIR$/music/academy.learnprogramming.common/academy.learnprogramming.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music/academy.learnprogramming.db/academy.learnprogramming.db.iml" filepath="$PROJECT_DIR$/music/academy.learnprogramming.db/academy.learnprogramming.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music/academy.learnprogramming.ui/academy.learnprogramming.ui.iml" filepath="$PROJECT_DIR$/music/academy.learnprogramming.ui/academy.learnprogramming.ui.iml" />
+    </modules>
+  </component>
+</project>
